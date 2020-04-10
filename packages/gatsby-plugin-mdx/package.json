@@ -55,7 +55,7 @@
     "unist-util-visit": "^1.4.1"
   },
   "devDependencies": {
-    "@mdx-js/mdx": "^1.5.7",
+    "@mdx-js/mdx": "^1.5.8",
     "@mdx-js/react": "^1.5.7",
     "jest": "^24.9.0",
     "js-combinatorics": "^0.5.5",
