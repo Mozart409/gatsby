@@ -29,7 +29,7 @@
     "remark-slug": "^5.1.2"
   },
   "devDependencies": {
-    "@mdx-js/react": "^1.5.7",
+    "@mdx-js/react": "^1.5.8",
     "gatsby": "^2.20.12",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
